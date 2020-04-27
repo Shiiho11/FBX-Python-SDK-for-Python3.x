@@ -5,16 +5,16 @@
 运行程序可能需要管理员权限。
 
 ## Pre-requisites
-+ Python
-    + 下载并安装。将安装路径称为`<yourPythonPath>`。
-+ Visual Studio 2015
-    + 下载并安装。
-+ FBX SDK
-    + 下载并安装。将安装路径称为`<yourFBXSDKPath>`。<https://www.autodesk.com/products/fbx/overview> 点击 GET FBX SDKP
-+ FBX Python Bindings
-    + 下载并安装。将安装路径称为`<yourFBXPythonBindingsPath>`。<https://www.autodesk.com/products/fbx/overview> 点击 GET FBX SDK
-+ Sip 4.19.3
-    + 下载并解压。将解压后路径称为`<yourSipPath>`。<https://www.riverbankcomputing.com/software/sip/download/> 版本必须是4.19.3。
++ Python  
+下载并安装。将安装路径称为`<yourPythonPath>`。
++ Visual Studio 2015  
+下载并安装。
++ FBX SDK  
+下载并安装。将安装路径称为`<yourFBXSDKPath>`。<https://www.autodesk.com/products/fbx/overview> 点击 GET FBX SDKP
++ FBX Python Bindings  
+下载并安装。将安装路径称为`<yourFBXPythonBindingsPath>`。<https://www.autodesk.com/products/fbx/overview> 点击 GET FBX SDK
++ Sip 4.19.3  
+下载并解压。将解压后路径称为`<yourSipPath>`。<https://www.riverbankcomputing.com/software/sip/download/> 版本必须是4.19.3。
 
 ## 步骤
 
