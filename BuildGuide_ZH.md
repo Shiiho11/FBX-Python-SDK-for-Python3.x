@@ -8,8 +8,8 @@
 + Python  
 下载并安装。将安装路径称为`<yourPythonPath>`。
 + Visual Studio 2015  
-下载并安装。
-+ FBX SDK  
+下载并安装。必须是2015.
++ FBX SDK VS2015  
 下载并安装。将安装路径称为`<yourFBXSDKPath>`。<https://www.autodesk.com/products/fbx/overview> 点击 GET FBX SDKP
 + FBX Python Bindings  
 下载并安装。将安装路径称为`<yourFBXPythonBindingsPath>`。<https://www.autodesk.com/products/fbx/overview> 点击 GET FBX SDK
