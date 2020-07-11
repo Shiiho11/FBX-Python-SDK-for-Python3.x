@@ -7,7 +7,7 @@ Autodesk提供的FBX Python SDK只支持Python2.7和Python3.3。为了能在Pyth
 
 ## Using the FBX Python SDK / 使用FBX Python SDK
 Copy the contents in `<SDKVersion_PythonVersion>` to `<yourPythonPath>\Lib\site-packages`.  
-Note: I only built the FBX Python SDK 2020.0.1 for Python3.7.6_x64, there is no guarantee that other versions can be used normally.
+Note: I only built the FBX Python SDK 2020.0.1 for Python3.7.6_x64/Python3.8.3_x64, there is no guarantee that other versions can be used normally.
 
 将`<SDKVersion_PythonVersion>`中的内容复制到`<yourPythonPath>\Lib\site-packages`中。  
 Note: 我只构建了用于Python3.7.6_x64/Python3.8.3_x64的FBX Python SDK 2020.0.1，不保证其他版本可以正常使用。
