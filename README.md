@@ -16,6 +16,3 @@ Note: 我只构建了用于Python3.7.6_x64/Python3.8.3_x64的FBX Python SDK 2020
 Please read the building guide: BuildGuide_EN.md / BuildGuide_ZH.md
 
 请阅读构建指南: BuildGuide_EN.md / BuildGuide_ZH.md
-
-The English version of the guide is in preparation.  
-中文指南编写完毕。2020/4/27
