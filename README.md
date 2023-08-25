@@ -13,6 +13,6 @@ Note: I only built the FBX Python SDK 2020.0.1 for Python3.7.6_x64/Python3.8.3_x
 Note: 我只构建了用于Python3.7.6_x64/Python3.8.3_x64的FBX Python SDK 2020.0.1，不保证其他版本可以正常使用。
 
 ## Build FBX Python SDK for any Python version / 构建适用于任意Python版本的FBX Python SDK
-Please read the building guide: BuildGuide_EN.md / BuildGuide_ZH.md
+Please read the building guide: BuildGuide_EN.md
 
-请阅读构建指南: BuildGuide_EN.md / BuildGuide_ZH.md
+请阅读构建指南: BuildGuide_ZH.md
